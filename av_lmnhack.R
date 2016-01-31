@@ -1,6 +1,6 @@
 ### The solution scored 0.84716548212 for accuracy on LeaderBoard. (rank 83/372)
 
-```{r}
+
 
 library(h2o)
 h2o.init()
@@ -95,4 +95,3 @@ my_solution <- data.frame(Id = test$ID, p$predict)
 colnames(my_solution) <- c('ID', "Crop_Damage")
 write.csv(my_solution, file= "submit.csv", row.names = FALSE)
 
-```
