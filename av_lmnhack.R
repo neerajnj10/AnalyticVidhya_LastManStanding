@@ -1,4 +1,4 @@
-### The solution scored 0.84716548212 for accuracy on LeaderBoard. (rank 83/372)
+### The solution scored 0.84716548212 for accuracy on LeaderBoard. (rank 44 out of over 500 participants)
 
 
 
